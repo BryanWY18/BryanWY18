@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 Full Stack Developer & Cybersecurity Analyst in Progress
+###🧑🏻‍💻 Full Stack Developer & Cybersecurity Analyst in Progress
 
 Con enfoque principal en el **stack MEAN** (Angular 🅰️, Node.js 🟢, Express 🚂, MongoDB 🍃).
  
