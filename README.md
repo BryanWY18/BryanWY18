@@ -8,7 +8,7 @@ Mi visión va más allá del código: me especializo en crear aplicaciones que n
 Gracias a mi base en **infraestructura de broadcast y redes** 🌐, disfruto desplegar proyectos robustos con **Docker** 🐳 y **Nginx** ⚙️, garantizando confiabilidad desde el servidor hasta la interfaz de usuario 🖥️.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bryan-pichardo-dev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-pichardo-dev) 
 [![Portafolio](https://img.shields.io/badge/Portafolio%20Web-color=blue)](https://portafolio.bryandev.cloud)
 
 # 💻 Tech Stack:
